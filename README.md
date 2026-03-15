@@ -134,3 +134,8 @@ This project demonstrates a **complete machine learning lifecycle**, including d
 
 **Arun Dharwad**
 MCA Student | Aspiring Data Scientist
+
+#OUTPUT
+
+<img width="525" height="313" alt="Image" src="https://github.com/user-attachments/assets/9b214cdc-1094-4bc9-b6ad-64e214bcae22" />
+<img width="727" height="203" alt="Image" src="https://github.com/user-attachments/assets/c3df3777-deb4-4bb3-8130-1fffb1fdc538" />
